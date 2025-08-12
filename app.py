@@ -7,7 +7,7 @@ def get_connection():
         password='Geethapriya@123',
         account='on21616',
         warehouse='COMPUTE_WH',
-        database='SNOWFLAKE_LEARNING_DB'
+        database='SNOWFLAKE_LEARNING_DB',
         schema='PUBLIC'
     )
  
