@@ -5,7 +5,7 @@ def get_connection():
     return snowflake.connector.connect(
         user='PreethiRajesh',
         password='Geethapriya@123',
-        account='on21616',
+         account='on21616.yvoslui', 
         warehouse='COMPUTE_WH',
         database='SNOWFLAKE_LEARNING_DB',
         schema='PUBLIC'
